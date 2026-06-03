@@ -14,4 +14,8 @@ Depending on which library you are currently modifying, reading, or working with
   If you are working on the `superpowers` library, you MUST immediately read its specific rules at:  
   [libs/superpowers/RULES.md](libs/superpowers/RULES.md)
 
+* **`libs/planning-with-files`**  
+  If you are working on the `planning-with-files` library, you MUST immediately read its specific rules at:  
+  [libs/planning-with-files/RULES.md](libs/planning-with-files/RULES.md)
+
 *(If you are working on a new library, please ensure a local `RULES.md` or `README.md` is created inside its directory.)*

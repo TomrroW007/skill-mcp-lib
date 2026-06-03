@@ -5,3 +5,7 @@ This repository is a Monorepo containing multiple Skill and MCP libraries.
 If you are working on the `superpowers` library, you must read the following files:
 @./libs/superpowers/skills/using-superpowers/SKILL.md
 @./libs/superpowers/skills/using-superpowers/references/gemini-tools.md
+
+If you are working on the `planning-with-files` library, you must read the following files:
+@./libs/planning-with-files/RULES.md
+@./libs/planning-with-files/skills/planning-with-files/SKILL.md
