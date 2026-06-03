@@ -11,6 +11,11 @@ The first library in this repository. Superpowers provides a set of composable s
 
 *(For more information, please visit [libs/superpowers/README.md](libs/superpowers/README.md))*
 
+### [Planning With Files](libs/planning-with-files/)
+A skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. 
+
+*(For more information, please visit [libs/planning-with-files/README.md](libs/planning-with-files/README.md))*
+
 ## 🤖 AI Agent Guidelines
 
 If you are an AI agent operating within this repository:
