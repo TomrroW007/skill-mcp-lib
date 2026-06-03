@@ -1,10 +1,17 @@
-# AI Rules Router
+# Skill MCP Lib Monorepo - Agent Guidelines
 
-This repository is a monorepo with multiple skill libraries under `libs/`.
+This repository is a **Monorepo** containing multiple AI Skill and MCP (Model Context Protocol) libraries.
 
-Before making any code changes, you must:
-1. Identify the active library folder for the task (for example `libs/superpowers/`).
-2. Open that library's `RULES.md` file.
-3. Follow only the rules in that library-specific `RULES.md` while working in that library.
+## Routing Instructions for AI Agents
 
-If no active library is identified, stop and ask which `libs/<name>/` folder should be used.
+You are currently reading the global root instructions. **However, each library within this repository has its own strict contribution guidelines and behavior rules.** 
+
+Depending on which library you are currently modifying, reading, or working with, you **MUST** read and adhere to that library's specific rules before taking any action.
+
+### Available Libraries:
+
+* **`libs/superpowers`**  
+  If you are working on the `superpowers` library, you MUST immediately read its specific rules at:  
+  [libs/superpowers/RULES.md](libs/superpowers/RULES.md)
+
+*(If you are working on a new library, please ensure a local `RULES.md` or `README.md` is created inside its directory.)*

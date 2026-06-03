@@ -1,10 +1,7 @@
-# AI Rules Router
+# Skill MCP Lib Monorepo - Gemini Guidelines
 
-This repository is a monorepo with multiple skill libraries under `libs/`.
+This repository is a Monorepo containing multiple Skill and MCP libraries.
 
-Before making any code changes, you must:
-1. Identify the active library folder for the task (for example `libs/superpowers/`).
-2. Open that library's `RULES.md` file.
-3. Follow only the rules in that library-specific `RULES.md` while working in that library.
-
-If no active library is identified, stop and ask which `libs/<name>/` folder should be used.
+If you are working on the `superpowers` library, you must read the following files:
+@./libs/superpowers/skills/using-superpowers/SKILL.md
+@./libs/superpowers/skills/using-superpowers/references/gemini-tools.md
