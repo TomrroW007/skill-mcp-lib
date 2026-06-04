@@ -21,6 +21,11 @@ The official collection of Anthropic skills, curated for the monorepo to extend 
 
 *(For more information, please visit [libs/anthropic-skills/README.md](libs/anthropic-skills/README.md))*
 
+### [UI/UX Pro Max Skill](libs/ui-ux-pro-max-skill/)
+An AI skill that provides design intelligence for building professional UI/UX, complete with reasoning rules, UI styles, color palettes, and typography pairings across multiple platforms.
+
+*(For more information, please visit [libs/ui-ux-pro-max-skill/README.md](libs/ui-ux-pro-max-skill/README.md))*
+
 ## 🤖 AI Agent Guidelines
 
 If you are an AI agent operating within this repository:
