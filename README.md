@@ -16,6 +16,11 @@ A skill implementing Manus-style persistent markdown planning — the workflow p
 
 *(For more information, please visit [libs/planning-with-files/README.md](libs/planning-with-files/README.md))*
 
+### [Anthropic Skills](libs/anthropic-skills/)
+The official collection of Anthropic skills, curated for the monorepo to extend general-purpose capabilities.
+
+*(For more information, please visit [libs/anthropic-skills/README.md](libs/anthropic-skills/README.md))*
+
 ## 🤖 AI Agent Guidelines
 
 If you are an AI agent operating within this repository:

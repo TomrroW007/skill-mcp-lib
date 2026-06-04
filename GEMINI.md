@@ -9,3 +9,6 @@ If you are working on the `superpowers` library, you must read the following fil
 If you are working on the `planning-with-files` library, you must read the following files:
 @./libs/planning-with-files/RULES.md
 @./libs/planning-with-files/skills/planning-with-files/SKILL.md
+
+If you are working on the `anthropic-skills` library, you must read the following files:
+@./libs/anthropic-skills/RULES.md
