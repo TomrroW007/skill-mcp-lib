@@ -21,10 +21,15 @@ The official collection of Anthropic skills, curated for the monorepo to extend 
 
 *(For more information, please visit [libs/anthropic-skills/README.md](libs/anthropic-skills/README.md))*
 
-### [UI/UX Pro Max Skill](libs/ui-ux-pro-max-skill/)
-An AI skill that provides design intelligence for building professional UI/UX, complete with reasoning rules, UI styles, color palettes, and typography pairings across multiple platforms.
+### [Web Dev Skills](libs/web-dev-skills/)
+A collection of community-sourced skills focused on web development workflows and deployments.
 
-*(For more information, please visit [libs/ui-ux-pro-max-skill/README.md](libs/ui-ux-pro-max-skill/README.md))*
+*(For more information, please visit [libs/web-dev-skills/README.md](libs/web-dev-skills/README.md))*
+
+### [Security Skills](libs/security-skills/)
+A collection of community-sourced skills focused on application security, threat modeling, and vulnerability auditing.
+
+*(For more information, please visit [libs/security-skills/README.md](libs/security-skills/README.md))*
 
 ## 🤖 AI Agent Guidelines
 

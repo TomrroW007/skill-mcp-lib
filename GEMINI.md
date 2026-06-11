@@ -13,6 +13,8 @@ If you are working on the `planning-with-files` library, you must read the follo
 If you are working on the `anthropic-skills` library, you must read the following files:
 @./libs/anthropic-skills/RULES.md
 
-If you are working on the `ui-ux-pro-max-skill` library, you must read the following files:
-@./libs/ui-ux-pro-max-skill/RULES.md
-@./libs/ui-ux-pro-max-skill/skills/ui-ux-pro-max/SKILL.md
+If you are working on the `web-dev-skills` library, you must read the following files:
+@./libs/web-dev-skills/RULES.md
+
+If you are working on the `security-skills` library, you must read the following files:
+@./libs/security-skills/RULES.md

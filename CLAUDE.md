@@ -22,8 +22,12 @@ Depending on which library you are currently modifying, reading, or working with
   If you are working on the `anthropic-skills` library, you MUST immediately read its specific rules at:  
   [libs/anthropic-skills/RULES.md](libs/anthropic-skills/RULES.md)
 
-* **`libs/ui-ux-pro-max-skill`**  
-  If you are working on the `ui-ux-pro-max-skill` library, you MUST immediately read its specific rules at:  
-  [libs/ui-ux-pro-max-skill/RULES.md](libs/ui-ux-pro-max-skill/RULES.md)
+* **`libs/web-dev-skills`**  
+  If you are working on the `web-dev-skills` library, you MUST immediately read its specific rules at:  
+  [libs/web-dev-skills/RULES.md](libs/web-dev-skills/RULES.md)
+
+* **`libs/security-skills`**  
+  If you are working on the `security-skills` library, you MUST immediately read its specific rules at:  
+  [libs/security-skills/RULES.md](libs/security-skills/RULES.md)
 
 *(If you are working on a new library, please ensure a local `RULES.md` or `README.md` is created inside its directory.)*
